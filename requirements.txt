@@ -1,0 +1,7 @@
+InquirerPy
+jupiter-python-sdk
+pyfiglet
+pandas
+tabulate
+yaspin
+dexscreener-api
